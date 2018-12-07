@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+もう一つのリポジトリ
+こんにちは。成美と申します。
